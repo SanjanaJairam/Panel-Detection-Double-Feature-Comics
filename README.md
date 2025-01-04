@@ -53,4 +53,4 @@ Feel free to contribute by submitting issues or pull requests. Contributions to 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/SanjanaJairam/Panel-Detection-Double-Feature-Comics/blob/main/LICENSE).
