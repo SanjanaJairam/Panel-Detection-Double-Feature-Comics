@@ -30,7 +30,7 @@ pip install -r requirements.txt
 - `main.py`: The main script to execute panel detection.
 - `panel_detector.py`: Contains the `PanelDetector` class used for panel detection.
 - `/images`: Directory containing input images.
-- `data.csv`: Ground truth CSV file for panel comparison.
+- `data/actual_panels.csv'`: Ground truth CSV file for panel comparison.
 
 ### Usage
 
@@ -44,8 +44,8 @@ pip install -r requirements.txt
 
 ### Output
 
-Accuracy Metric: The script calculates the accuracy of the panel detection model by comparing the detected panel counts with the actual panel counts provided in data.csv.
-Detailed Results: A dictionary mapping filenames to detected panel counts, along with logs summarizing accuracy and performance.
+1. Accuracy Metric: The script calculates the accuracy of the panel detection model by comparing the detected panel counts with the actual panel counts provided in actual_panels.csv.
+2. Detailed Results: A dictionary mapping filenames to detected panel counts, along with logs summarizing accuracy and performance.
 
 ## Contributing
 
